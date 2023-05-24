@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(MaterialApp(home: gird_buider()));
-}
+// void main() {
+//   runApp(MaterialApp(home: gird_buider()));
+// }
 
 class gird_buider extends StatelessWidget {
   var image = [

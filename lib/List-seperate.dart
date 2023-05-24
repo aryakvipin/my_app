@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(MaterialApp(home:List_builder_Ex (),));
-
-}
+// void main(){
+//   runApp(MaterialApp(home:List_builder_Ex (),));
+//
+// }
 
 class List_builder_Ex  extends StatelessWidget{
   var datas=["manu","Ram","Anu" ,"viny","Arun", "Amala"];

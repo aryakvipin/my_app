@@ -40,7 +40,7 @@ class HotelHomePage extends StatelessWidget {
                 onPressed: (){},
               ),
             ],
-            floating: true,
+
             flexibleSpace: ListView(
               children: <Widget>[
                 const SizedBox(height: 70.0,),
