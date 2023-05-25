@@ -49,8 +49,7 @@ dependencies:
   lottie: ^2.3.2
   flutter_svg:
   introduction_screen: ^3.1.8
-
-
+  custom_searchable_dropdown: ^2.1.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
